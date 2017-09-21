@@ -1,0 +1,44 @@
+  /*.row{
+	margin-left: 10px;
+}*/
+body{
+  background-color: #f0f5f5;
+}
+#sidebar .active{
+  background: #f2e6ff;
+  border-left: 10px solid #00cccc;
+}
+ul li a{
+  color:   #7575a3;
+}
+
+/*.panel a{
+  text-decoration: none;
+  border-bottom: 1px dotted #009900;
+  color: #b3ffff;
+}
+.panel a:hover{
+  color: white;
+}*/
+
+
+
+#frame{
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 70px;
+}
+
+.dataTables_filter {
+   width: 300px;
+   float: right;
+   text-align: left;
+   display: inline-block;
+}
+ th{
+   font-size: 13px;
+ }
+
+.btn{
+  box-shadow: 3px 5px 5px #888888;
+}
